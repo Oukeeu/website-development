@@ -1,29 +1,24 @@
 # website-development
 Refinement and modification of the backend and frontend parts of the site
 
-In this case, the site was created using backen and fropntend programming, layout, as well as, Tilda.
+In this case, work was done to make changes to the site.
 
-The site was developed as a landing site cover for the medical institute for the study and development of special means to save people's lives in emergency situations.
+Tasks:
+1) Change the frontend part of the site
+2) Fix bugs in the backend of the site
+3) Deploy a local shell to work with the site
+4) Update the CMS platform bitrix on which the site was located 
+5) Fix all bugs and glitches that occurred when updating the platform
+6) Make additional changes to the backend, namely to finalize the logic display of products in the catalog, shopping cart order form.
 
-Worked in a team of three developers, one of whom was
+Worked in a team of two developers, one of whom was me.
 
-My work was divided into several stages:
-1) Creating a model of the site - draft.
-2) Designing the layout of the site.
-3) Setting up and fine-tuning of the frontend.
-4) Filling with content.
-4) Connection of location modules and application forms for online recording.
-5) Backend part development.
-6) Installation on hosting and domain registration.
-
-The work was performed within a week, the customer was satisfied and left positive feedbacks about the work done.
+The work was done on time and the customer left positive feedback on the work done.
 
 Stack:
-1) Tilda.
-2) Figma
-3) Photoshop
-4) CSS
-5) JS
-6) HTML
-7) CSS
-8) API/rest 
+1) PHP.
+2) CSS
+3) THML
+4) JS
+5) API/REST
+6) Bitrix CMS
